@@ -1,0 +1,1 @@
+A project from university for the module Business Analytics. With the help of three of my colleagues, we manged to show and proof optimal placement of reverse vending machines (RVM) for plastic. We used discrete choice modelling and integer programming to solve the problem, and finally described our work in a thesis. 
